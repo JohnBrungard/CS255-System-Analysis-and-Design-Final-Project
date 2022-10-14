@@ -3,7 +3,7 @@
 ***Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?***
 The client for this system was DriverPass. Its owner, Liam, wants the system to offer driver training so that more people pass their driving test at the Department of Motor Vehicles (DMV). DriverPass’s solution to this problem is to create a web-based system that allows customers (people preparing for their driving test) to participate in online materials, DMV lessons, and practice tests that will help them pass their driving test. 
 
-***What did you do particularly well***
+***What did you do particularly well?***
 I feel I was proficient in identifying the variety of requirements for the project and creating solutions for each of them that aligned with what DriverPass envisioned with their system. I believe that my diagrams also accurately captured the different parts needed for the system.
 
 ***If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?***
